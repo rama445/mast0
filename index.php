@@ -6,10 +6,10 @@ $site_title = " BADSHAH ";
 
 // using banned in role will show user that he is banned when he try to login . 
 $users = array(
-               "badshah" => array("name" => "Punu", "role"=> "admin"),
-               " badshah " => array("name" => "Hamza", "role"=> "admin"),
-               " badshah " => array("name" => "mehtab", "role"=> "guest"),
-               " badshah " => array("name" => "naseer", "role"=> "guest")
+               "Kamina1" => array("name" => "Punu", "role"=> "admin"),
+               " Kamina1 " => array("name" => "Hamza", "role"=> "admin"),
+               " kamina1 " => array("name" => "mehtab", "role"=> "guest"),
+               " kamina1 " => array("name" => "naseer", "role"=> "guest")
                );
 
 if(isset($_SESSION['logged']) && !isset($users[$_SESSION['password']]) || $users[$_SESSION['password']]['role'] == 'banned'){
@@ -367,9 +367,9 @@ By Badshah & Tommy
 </div>
 
 <div class="post-content">
-<center><a href="https://fb.com/BADSHAHI.COM.PK"><DIPLU>
+<center><a href="https://fb.com/100015453945618"><Badshah>
 <div class="post-content">
-<a href="http://m.facebook.com/BADSHAHI.COM.PK"><img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/17361605_296280477456209_2559582842290038346_n.jpg?_nc_eui2=v1%3AAeEkDEQYTQ3CHXbfgMR6aRb3u7G9VtsqK4Qehg_YS_GQIcUoqEdP2lkM3YWnHpZmcuEDQjNIoCAgDHztjj7cHKBcjl7DL6geJJYAtMalh6Mhyg&oh=d6300736114bca47f8b43a1577cddafc&oe=59621792" style="border: 4px solid #000; padding: 4px; margin: 4px; width: 200px; height: 200px; float: left;" alt="BADSHAH" class="thumbnail"/></a>
+<a href="http://m.facebook.com/100015453945618"><img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/17361605_296280477456209_2559582842290038346_n.jpg?_nc_eui2=v1%3AAeEkDEQYTQ3CHXbfgMR6aRb3u7G9VtsqK4Qehg_YS_GQIcUoqEdP2lkM3YWnHpZmcuEDQjNIoCAgDHztjj7cHKBcjl7DL6geJJYAtMalh6Mhyg&oh=d6300736114bca47f8b43a1577cddafc&oe=59621792" style="border: 4px solid #000; padding: 4px; margin: 4px; width: 200px; height: 200px; float: left;" alt="BADSHAH" class="thumbnail"/></a>
 <span>
 <p style="font-weight:bold;">
 <br><u><b>Famous Bot Created By BADSHAH KING </u></b> <br>
@@ -414,7 +414,7 @@ public function bwh() {
 </a></h3>
 <marquee behavior="scroll" direction="left" scrollamount="7" scrolldelay="5" width="100%">
 <b>
-<font size="20" color="yellow">-=</font><a class="sec" href="http://fb.com/BADSHAHI.COM.PK"><font color="white" size="20">Botter King</font></a></b> <font size="20" color="white">-</font>
+<font size="20" color="yellow">-=</font><a class="sec" href="http://fb.com/100015453945618"><font color="white" size="20">Botter King</font></a></b> <font size="20" color="white">-</font>
 <b>
 <a class="sec" href=""><font color="White" size="20"></font></a></b><font size="20" color="yellow">=-</font></marquee>
 <marquee behavior="scroll" direction="right" scrollamount="7" scrolldelay="5" width="100%">
