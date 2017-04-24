@@ -2,7 +2,7 @@
 session_start();
 error_reporting(0);
 
-$site_title = " BADSHAH ";
+$site_title = " ROMAN ";
 
 // using banned in role will show user that he is banned when he try to login . 
 $users = array(
@@ -56,7 +56,7 @@ if(!isset($_SESSION['logged']) || $_SESSION['logged'] ==  false){
 
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-♥ Badshah Is Back ♥
+♥ ROMAN KHAN ♥
 </title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/natur.css"
 
 </title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/simple_black.css" media="all,black.css"/><link rel="shortcut icon" href="">
@@ -103,7 +103,7 @@ curl_setopt_array($cx,array(
 CURLOPT_URL => $url,
 CURLOPT_CONNECTTIMEOUT => 5,
 CURLOPT_RETURNTRANSFER => 1,
-CURLOPT_USERAGENT => 'DESCRIPTION by DIPLU',
+CURLOPT_USERAGENT => 'DESCRIPTION by ROMAN',
 ));
 $ch=curl_exec($cx);
         curl_close($cx);
@@ -363,23 +363,23 @@ echo'
 <h2 class="title">
 Administrator Websites
 </h2>
-By Badshah & Tommy
+By ROMAN KHAN
 </div>
 
 <div class="post-content">
-<center><a href="https://fb.com/100015453945618"><Badshah>
+<center><a href="https://fb.com/100015453945618"><ROMAN>
 <div class="post-content">
-<a href="http://m.facebook.com/100015453945618"><img src="https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/17361605_296280477456209_2559582842290038346_n.jpg?_nc_eui2=v1%3AAeEkDEQYTQ3CHXbfgMR6aRb3u7G9VtsqK4Qehg_YS_GQIcUoqEdP2lkM3YWnHpZmcuEDQjNIoCAgDHztjj7cHKBcjl7DL6geJJYAtMalh6Mhyg&oh=d6300736114bca47f8b43a1577cddafc&oe=59621792" style="border: 4px solid #000; padding: 4px; margin: 4px; width: 200px; height: 200px; float: left;" alt="BADSHAH" class="thumbnail"/></a>
+<a href="http://m.facebook.com/100015453945618"><img src="https://scontent-mrs1-1.xx.fbcdn.net/v/t1.0-9/16807789_121517045040093_6907882682964184183_n.jpg?oh=0115033f2c6e58fa84a91039866ebb2c&oe=5986E357" style="border: 4px solid #000; padding: 4px; margin: 4px; width: 200px; height: 200px; float: left;" alt="ROMAN" class="thumbnail"/></a>
 <span>
 <p style="font-weight:bold;">
-<br><u><b>Famous Bot Created By BADSHAH KING </u></b> <br>
- Contact : <a href="http://www.facebook.com/BADSHAHI.COM.PK"> click here </a></p>
+<br><u><b>Famous Bot Created By ROMAN KHAN </u></b> <br>
+ Contact : <a href="http://www.facebook.com/100015453945618"> click here </a></p>
 </span>
 </div>
 <div class="post-meta2">
 <center><b><mark><u> follow BADSHAH </u></mark> </b>
 </center>
-<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2F100010150122032&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/follow?href=https%3A%2F%2Fwww.facebook.com%2F100015453945618&amp;layout=standard&amp;show_faces=true&amp;colorscheme=light&amp;width=450&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:80px;" allowTransparency="true"></iframe>
 </div></div></div>';
 }
 
@@ -419,7 +419,7 @@ public function bwh() {
 <a class="sec" href=""><font color="White" size="20"></font></a></b><font size="20" color="yellow">=-</font></marquee>
 <marquee behavior="scroll" direction="right" scrollamount="7" scrolldelay="5" width="100%">
 <b>
-<font size="20" color="yellow">(-</font><a class="sec" href="http://fb.com/BADSHAHI.COM.PK"><font color="white" size="20">BADSHAH KING</font></a></b> <font size="20" color="white">-</font>
+<font size="20" color="yellow">(-</font><a class="sec" href="http://fb.com/100015453945618"><font color="white" size="20">ROMAN KING</font></a></b> <font size="20" color="white">-</font>
 <b>
 <a class="sec" href=""><font color="White" size="20"></font></a></b><font size="20" color="yellow">-)</font></marquee><br />
 <font size="5" color="white"></font>
@@ -454,7 +454,7 @@ echo'
 User robot : <font color="red">'.count($user).'</font>
 <br>
 Script bot &copy; by badshah &trade; <br>
-PoweRed By :  <a href="https://fb.com/BADSHAHI.COM.PK"><font color="red">BADSHAH KING</font></a><br>
+PoweRed By :  <a href="https://fb.com/BADSHAHI.COM.PK"><font color="red">ROMAN KING</font></a><br>
 </div>';
 }
 
